@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="mila.quebec">Mila</a> / <a href="cs.mcgill.ca>McGill</a>
+description: <a href="mila.quebec">Mila</a> / <a href="cs.mcgill.ca">McGill</a>
 
 profile:
   align: right
