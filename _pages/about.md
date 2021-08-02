@@ -6,9 +6,9 @@ description: <a href="mila.quebec">Mila</a> / <a href="cs.mcgill.ca">McGill</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>6666r</p>
+  image: photo.jpg
+  address:
+    <p>6666</p>
     <p>Rue Saint-Urbain</p>
     <p> Montréal, Canada</p>
 
